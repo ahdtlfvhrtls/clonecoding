@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header1 {
+    background-color: yellow;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 150px;
+}
+
+.header1_left{
+    text-align: center;
+    margin-left: 150px;
+    
+}
+
+.header1_right{
+    margin-right: auto;
+}
